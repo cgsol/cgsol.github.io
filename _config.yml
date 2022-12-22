@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "cgsol"
 title_separator          : "-"
 name                     : &name "César Guerra-Solano"
-description              : &description "Undergraduate student in computer science."
+description              : &description "Personal website for professional use."
 url                      : "https://cgsol.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cgsol/cgsol.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "César Guerra-Solano"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Undergraduate student studying computer science and computational biology in the Honors College | Undergraduate researcher in Neuroscience in the Taylor Lab | Stamps Scholar"
+  location         : "Horsham, PA| Pittsburgh, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "cesar.guerrasolano@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/cesar-guerra-solano/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
