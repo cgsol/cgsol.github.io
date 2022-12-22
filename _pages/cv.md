@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-My resume can be found [here](./resume.pdf)
+My resume can be found [here](./images/resume.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
