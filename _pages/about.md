@@ -15,3 +15,5 @@ Starting in January, 2023, I will be researching pain behaviors as a member of t
 I find genuine enjoyment in teaching others. Starting in January, 2023, I will be a UTA for CMPINF 0010: Big Ideas in Computing & Information. I will also be continuing involvement in Pitt SEMFS, creating and presenting STEM lessons to elementary students, along with tutoring.
 
 I currently intern for Reprise Financial as a Credit/Underwriting Intern. I work implementing large-scale models to identify potential customers through mail offers. I also work to adapt the model-building process to AWS, utilizing Amazon SageMaker and S3 Buckets for data storage.
+
+---
