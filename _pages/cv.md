@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My resume can be found [here](./images/resume.pdf)
+My resume can be found [here](./images/resume.pdf).
 
 Education
 ======
