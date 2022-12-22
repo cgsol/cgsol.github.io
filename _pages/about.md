@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am César Guerra-Solano, a [Stamps Scholar](https://www.stampsscholars.org/) and Frederick Honors Student at the University of Pittsburgh majoring in computer science and computational biology. I am most interested in researching, specifically the intersection of computer science, neuroscience, and linguistics. Finding how to apply computer science to different fields is what keeps me going.
+I am César Guerra-Solano, a [Stamps Scholar](https://www.stampsscholars.org/) and Frederick Honors Student at the University of Pittsburgh majoring in computer science and computational biology. I am most interested in researching the intersection of computer science, neuroscience, and linguistics. Finding how to apply computer science to different fields is what keeps me going.
 
 Starting in January 2023, I will be researching pain behaviors as a member of the [Taylor Lab](https://www.taylorlab.anes.pitt.edu/), working with Adam Brandner. I have previously [researched implicit bias in literature](https://www.bu.edu/summer/files/2022/02/Guerra-Solano-Cesar-RISE-Poster-2021.pdf) under Dr. Derry Wijaya at Boston University as a member of the RISE program.
 
