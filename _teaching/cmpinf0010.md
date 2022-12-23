@@ -8,4 +8,4 @@ date: 2023-01-08
 location: "Pittsburgh, PA"
 ---
 
-Undergraduate TA for CMPINF 0010, leading a Python lab section, and holding office hours to help students with programming.
+Undergraduate TA for CMPINF 0010. Lead a Python lab section and hold office hours to help students with programming, along with helping grade final project presentations.
