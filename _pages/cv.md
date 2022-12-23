@@ -13,30 +13,38 @@ My resume can be found [here](./images/resume.pdf).
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Computational Biology -- University of Pittsburgh, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2023 - Ongoing: Research Intern
+  * Taylor Lab, University of Pittsburgh
+  * Supervisors: Adam Brandner, Dr. Bradley Taylor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2022 - Ongoing: Credit/Underwriting Intern
+  * Reprise Financial
+  * Duties included: Adaptation of existing model building infrastructure to AWS using SageMaker, configuration of S3 buckets for storage, and creation of models to identify potential customers through mail offers.
+  * Supervisor: Michael Kortering
+
+* July 2021 - August 2021: Research Intern
+  * Boston University Research in Science & Engineering (RISE)
+  * Duties included: Analysis of racial bias in the Google Ngram digitized books database, examining topics and grammatical structure associated with famous figures from different races and how those structures and topics trended over time using Python. Created and presented a research poster to a panel of professors, students, and family, showing findings of grammatical bias present when mentioning figures of certain races
+  * Supervisor: Dr. Derry Wijaya
   
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical Skills
+  * Python, Java, Basic AWS (S3, SageMaker)
+  * Certificates: MITx: Introduction to Computer Science and Programming Using Python, MITx: Introduction to Computational Thinking and Data Science
+* Languages
+  * English (native fluency)
+  * Spanish (native fluency)
 
 Publications
 ======
@@ -44,18 +52,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Stamps Scholar
+* Pitt SEMFS
