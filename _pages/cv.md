@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My resume can be found [here](./images/resume.pdf).
+My resume can be found [here](https://drive.google.com/file/d/1E9xKmR4c6fFD5tEbQGBBkQbDRH-fluEI/view?usp=sharing).
 
 Education
 ======
@@ -56,3 +56,4 @@ Service and leadership
 ======
 * Stamps Scholar
 * Pitt SEMFS
+* FRC Robotics Team 2607
