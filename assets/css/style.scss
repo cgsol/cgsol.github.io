@@ -1,0 +1,70 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Website-wide
+body {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+
+    font-family: Georgia, serif;
+    line-height: 1.7;
+    font-size: 1rem;
+
+    overflow: auto;
+}
+b, strong, h1, h2, h3 {
+    color: #358f5f;
+}
+a {
+    color: #37a36a;
+}
+a:hover {
+    color: #37a36a;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+ol, ul {
+    overflow: auto;
+}
+
+// Bio-related
+.bio {
+    overflow: auto;
+}
+
+.headshot {
+    float: left;
+    width: 220px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+
+.text-icon {
+  display: inline;
+  margin: 0 0.125em;
+  padding: 0;
+  vertical-align: baseline;
+  height: 1rem;
+}
+
+
+// Nav-bar related
+nav {
+    display: flex;
+    gap: 30px;
+    justify-content: flex-end;
+
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1rem;
+}
